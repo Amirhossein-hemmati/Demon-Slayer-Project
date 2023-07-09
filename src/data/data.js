@@ -1,0 +1,21 @@
+
+export const data = [
+    {id: 1, name: "1- Flame Hashira Kyojuro Rengoku", rate: 8.5, image: '../../public/1.jpg'},
+    {id: 2, name: "2- Deep Sleep", rate: 7.9, image: '../../public/2.jpg'},
+    {id: 4, name: "3- Should Have Been", rate: 8.1, image: '../../public/3.jpg'},
+    {id: 5, name: "4- Insult", rate: 8., image: '../../public/4.jpg'},
+    {id: 3, name: "5- Move Forward!", rate: 8.6, image: '../../public/5.jpg'},
+    {id: 6, name: "6- Akaza", rate: 9.4, image: '../../public/6.jpg'},
+    {id: 7, name: "7- Set Your Heart Ablaze", rate: 9.7, image: '../../public/7.jpg'},
+    {id: 8, name: "8- Sound Hashira Tengen Uzui", rate: 7.9, image: '../../public/8.jpg'},
+    {id: 9, name: "9- Infiltrating the Entertainment District", rate: 7.4, image: '../../public/9.jpg'},
+    {id: 10, name: "10- What Are You", rate: 7.9, image: '../../public/10.jpg'},
+    {id: 11, name: "11- Tonight", rate: 8.2, image: '../../public/11.jpg'},
+    {id: 12, name: "12- Things Are Gonna Get Real Flashy", rate: 8.7, image: '../../public/12.jpg'},
+    {id: 13, name: "13- Layered Memories", rate: 9.5, image: '../../public/13.jpg'},
+    {id: 14, name: "14- Transformation", rate: 9.4, image: '../../public/14.jpg'},
+    {id: 15, name: "15- Gathering", rate: 9.4, image: '../../public/15.jpg'},
+    {id: 16, name: "16- Once We've Defeated the Upper Rank Demons", rate: 9.6, image: '../../public/16.jpg'},
+    {id: 17, name: "17- I Will Never Give Up", rate: 9.8, image: '../../public/17.jpg'},
+    {id: 18, name: "18- No Matter How Many Times We Reborn", rate: 8.8, image: '../../public/18.jpg'},
+];

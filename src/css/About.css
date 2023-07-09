@@ -1,0 +1,14 @@
+
+.about {
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about_desc {
+    text-align: center;
+    font-size: 1.6rem;
+    padding: 36px;
+    font-weight: bold;
+    color: #e0517c;
+}

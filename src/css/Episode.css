@@ -1,0 +1,36 @@
+
+.episode {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;}
+
+.episode_img {
+    width: 320px ;
+    height: 200px;
+    border-radius: 10px 10px 0 0;
+}
+
+.episode_information {
+    width: 300px;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.episode_name {
+    font-size: 1.6rem;
+    font-weight:bold;
+    text-decoration: none;
+    color: black;
+}
+
+.episode_rate {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.6rem;
+}
